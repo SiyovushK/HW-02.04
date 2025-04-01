@@ -1,0 +1,20 @@
+Desk Organizer,Compact desk organizer with multiple compartments,25.00,30,Office Supplies,2024-02-01
+Travel Mug,Insulated travel mug for hot and cold beverages,15.00,100,Accessories,2024-02-02
+Wireless Mouse,Ergonomic wireless mouse with long battery life,35.00,60,Electronics,2024-02-03
+Standing Desk,Adjustable standing desk for home office,250.00,15,Furniture,2024-02-04
+Kitchen Scale,Digital kitchen scale with high precision,20.00,80,Appliances,2024-02-05
+Camping Tent,Two-person camping tent with waterproof cover,150.00,12,Outdoor,2024-02-06
+Electric Toothbrush,Rechargeable toothbrush with multiple modes,75.00,40,Personal Care,2024-02-07
+Smart Thermostat,Energy-efficient thermostat with remote control,200.00,10,Home Automation,2024-02-08
+Car Vacuum Cleaner,Portable vacuum cleaner for cars,50.00,25,Automotive,2024-02-09
+LED Flashlight,High-lumen flashlight with adjustable focus,30.00,50,Outdoor,2024-02-10
+Bluetooth Keyboard,Compact keyboard compatible with multiple devices,60.00,20,Electronics,2024-02-11
+Portable Power Bank,10000mAh power bank with fast charging,40.00,35,Accessories,2024-02-12
+Running Shoes,Breathable running shoes for men and women,120.00,25,Sports,2024-02-13
+Smart Doorbell,Video doorbell with motion detection,150.00,8,Home Automation,2024-02-14
+Noise Machine,White noise machine for better sleep,50.00,30,Personal Care,2024-02-15
+Drawing Tablet,Digital drawing tablet for artists,300.00,10,Electronics,2024-02-16
+Waterproof Jacket,Lightweight jacket for rainy weather,80.00,50,Clothing,2024-02-17
+Dog Collar,Adjustable dog collar with reflective strap,20.00,100,Pets,2024-02-18
+Board Game,Strategy board game for family entertainment,40.00,20,Toys,2024-02-19
+Wireless Charger,Fast wireless charger for smartphones,30.00,60,Electronics,2024-02-20

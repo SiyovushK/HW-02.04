@@ -1,0 +1,3 @@
+Total products: 40
+Average Price: 135,3750000000000000
+Total Stock Quantity: 1743

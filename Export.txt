@@ -1,0 +1,40 @@
+1,Laptop Pro,High-performance laptop with 16GB RAM and 1TB SSD.,1200,00,10,Electronics,01.01.2024 10:00:00
+2,Smartphone X,Latest smartphone with advanced camera features.,900,00,25,Electronics,02.01.2024 15:30:00
+3,Wireless Headphones,Noise-cancelling headphones with Bluetooth.,150,00,50,Accessories,03.01.2024 9:45:00
+4,Gaming Chair,Ergonomic chair designed for gamers.,300,00,20,Furniture,04.01.2024 13:00:00
+5,Electric Kettle,1.7L kettle with auto shut-off.,40,00,100,Appliances,05.01.2024 11:15:00
+6,Desk Lamp,Adjustable LED desk lamp with USB charging.,25,00,75,Furniture,06.01.2024 18:45:00
+7,Coffee Maker,Automatic coffee maker with timer.,80,00,30,Appliances,07.01.2024 7:30:00
+8,Bluetooth Speaker,Portable speaker with rich bass sound.,60,00,45,Accessories,08.01.2024 14:10:00
+9,Smartwatch Z,Smartwatch with fitness tracking and notifications.,200,00,15,Electronics,09.01.2024 12:50:00
+10,Electric Scooter,Foldable scooter with a range of 30km.,450,00,10,Transport,10.01.2024 16:25:00
+11,Yoga Mat,Non-slip yoga mat with carrying strap.,20,00,120,Sports,11.01.2024 8:40:00
+12,Dumbbell Set,Adjustable dumbbells for home workouts.,100,00,50,Sports,12.01.2024 19:20:00
+13,Tablet Pro,High-performance tablet for work and entertainment.,700,00,12,Electronics,13.01.2024 10:05:00
+14,Refrigerator XL,Large refrigerator with energy-saving features.,1200,00,5,Appliances,14.01.2024 17:30:00
+15,Microwave Oven,Compact microwave with grill feature.,100,00,25,Appliances,15.01.2024 13:45:00
+16,Office Desk,Spacious desk with cable management.,150,00,20,Furniture,16.01.2024 9:10:00
+17,Tennis Racket,Professional tennis racket with cover.,120,00,40,Sports,17.01.2024 15:55:00
+18,Air Purifier,Air purifier with HEPA filter.,250,00,18,Appliances,18.01.2024 20:30:00
+19,Backpack Pro,Water-resistant backpack with laptop compartment.,80,00,60,Accessories,19.01.2024 11:45:00
+20,E-book Reader,E-reader with adjustable backlight.,150,00,30,Electronics,20.01.2024 14:15:00
+22,Desk Organizer,Compact desk organizer with multiple compartments,25,00,30,Office Supplies,01.02.2024 0:00:00
+23,Travel Mug,Insulated travel mug for hot and cold beverages,15,00,100,Accessories,02.02.2024 0:00:00
+24,Wireless Mouse,Ergonomic wireless mouse with long battery life,35,00,60,Electronics,03.02.2024 0:00:00
+25,Standing Desk,Adjustable standing desk for home office,250,00,15,Furniture,04.02.2024 0:00:00
+26,Kitchen Scale,Digital kitchen scale with high precision,20,00,80,Appliances,05.02.2024 0:00:00
+27,Camping Tent,Two-person camping tent with waterproof cover,150,00,12,Outdoor,06.02.2024 0:00:00
+28,Electric Toothbrush,Rechargeable toothbrush with multiple modes,75,00,40,Personal Care,07.02.2024 0:00:00
+29,Smart Thermostat,Energy-efficient thermostat with remote control,200,00,10,Home Automation,08.02.2024 0:00:00
+30,Car Vacuum Cleaner,Portable vacuum cleaner for cars,50,00,25,Automotive,09.02.2024 0:00:00
+31,LED Flashlight,High-lumen flashlight with adjustable focus,30,00,50,Outdoor,10.02.2024 0:00:00
+32,Bluetooth Keyboard,Compact keyboard compatible with multiple devices,60,00,20,Electronics,11.02.2024 0:00:00
+33,Portable Power Bank,10000mAh power bank with fast charging,40,00,35,Accessories,12.02.2024 0:00:00
+34,Running Shoes,Breathable running shoes for men and women,120,00,25,Sports,13.02.2024 0:00:00
+35,Smart Doorbell,Video doorbell with motion detection,150,00,8,Home Automation,14.02.2024 0:00:00
+36,Noise Machine,White noise machine for better sleep,50,00,30,Personal Care,15.02.2024 0:00:00
+37,Drawing Tablet,Digital drawing tablet for artists,300,00,10,Electronics,16.02.2024 0:00:00
+38,Waterproof Jacket,Lightweight jacket for rainy weather,80,00,50,Clothing,17.02.2024 0:00:00
+39,Dog Collar,Adjustable dog collar with reflective strap,20,00,100,Pets,18.02.2024 0:00:00
+40,Board Game,Strategy board game for family entertainment,40,00,20,Toys,19.02.2024 0:00:00
+41,Wireless Charger,Fast wireless charger for smartphones,30,00,60,Electronics,20.02.2024 0:00:00

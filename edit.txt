@@ -1,0 +1,21 @@
+10,Camping Chair,Foldable camping chair with cup holder,40.00,50,Outdoor,2024-03-01
+11,Coffee Grinder,Electric coffee grinder with adjustable settings,60.00,35,Appliances,2024-03-02
+12,Noise Cancelling Earbuds,Compact earbuds with active noise cancelling,120.00,40,Electronics,2024-03-03
+13,Smart Scale,Digital body weight scale with app connectivity,50.00,30,Personal Care,2024-03-04
+14,Travel Backpack,Durable backpack with anti-theft features,100.00,25,Accessories,2024-03-05
+15,Electric Blanket,Heated blanket with adjustable temperature,80.00,15,Home Comfort,2024-03-06
+16,Solar Power Bank,Portable solar power bank with LED flashlight,70.00,20,Accessories,2024-03-07
+17,Water Purifier,Compact water purifier for outdoor use,150.00,12,Outdoor,2024-03-08
+18,Kids Tablet,Child-friendly tablet with parental controls,120.00,20,Electronics,2024-03-09
+19,Wireless Doorbell,Easy-install wireless doorbell with long range,40.00,50,Home Automation,2024-03-10
+20,Home Security Camera,Wi-Fi camera with night vision and motion detection,150.00,15,Electronics,2024-03-11
+21,Car Phone Mount,Adjustable phone mount for car dashboards,20.00,100,Automotive,2024-03-12
+22,Office Chair Mat,Durable mat to protect floors from chair wheels,50.00,25,Furniture,2024-03-13
+23,Yoga Block,Lightweight yoga block for better stretches,15.00,120,Sports,2024-03-14
+24,Travel Pillow,Memory foam pillow for comfortable travel,25.00,80,Accessories,2024-03-15
+25,Multi-Tool,Compact multi-tool with 15 functions,35.00,70,Outdoor,2024-03-16
+26,Home Projector,HD projector for movies and presentations,300.00,8,Electronics,2024-03-17
+27,Bike Helmet,Adjustable helmet for cycling safety,60.00,40,Sports,2024-03-18
+28,Lunch Box,Insulated lunch box with multiple compartments,25.00,100,Home Comfort,2024-03-19
+29,Digital Thermometer,Accurate thermometer with quick response,20.00,150,Personal Care,2024-03-20
+30,Smart Light Bulb,Color-changing bulb with app control,30.00,60,Home Automation,2024-03-21
